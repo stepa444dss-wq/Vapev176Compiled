@@ -1,4 +1,4 @@
-﻿local mainapi = {
+local mainapi = {
 	Connections = {},
 	Categories = {},
 	GUIColor = {Hue = 0.46, Sat = 0.96, Value = 0.52},

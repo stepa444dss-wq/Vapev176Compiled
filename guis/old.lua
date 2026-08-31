@@ -1,4 +1,4 @@
-﻿local mainapi = {
+local mainapi = {
 	Categories = {},
 	GUIColor = {
 		Hue = 0.46,
